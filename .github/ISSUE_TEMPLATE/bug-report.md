@@ -7,36 +7,49 @@ assignees: ''
 
 ---
 
-**Type of Issue**
-- [x] Client Side
-- [x] Server Side
+**Bug Type:**
+- [ ] Client Side
+- [ ] Server Side
 - [ ] Client Installer
 - [ ] Other
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Bug Effects**
+- [ ] Missions
+- [ ] Quest
+- [ ] Conquest
+- [ ] Jobs
+- [ ] BCNM
+- [ ] Mobs
+- [ ] Zone
+- [ ] Moghouse
+- [ ] NPC
+- [ ] Crafting/Guilds
+- [ ] Transportation (Airship, Ship or Chocobo)
+- [ ] Exploit/Glitch
+- [ ] Other
+
+**Describe The Bug/Issue**
+Please give a clear description of the bug or issue you are experiencing in as much detail as possible.  
+
 
 **Can you reproduce the bug? **
 - [ ] Yes
-- [x] No
+- [ ] No
 
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Please give a clear description of what you expected to happen with as much detail as possible.
+
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Client Version:**
+ 
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Your Characters Name:**
+ 
+
 
 **Additional context**
 Add any other context about the problem here.
