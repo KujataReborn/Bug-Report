@@ -20,6 +20,7 @@ assignees: ''
 - [ ] Conquest
 - [ ] Jobs
 - [ ] BCNM
+- [ ] Dynamis
 - [ ] Mobs
 - [ ] Named Mobs
 - [ ] Zone
