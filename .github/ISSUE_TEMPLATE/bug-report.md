@@ -1,6 +1,7 @@
 ---
 name: Bug Report
-about: Create a report to help us improve the server, please use X to mark the boxes pretaning to your issue. (i.e) - [x]
+about: Create a report to help us improve the server, please use X to mark the boxes
+  pretaning to your issue. (i.e) - [x]
 title: ''
 labels: ''
 assignees: ''
@@ -20,6 +21,7 @@ assignees: ''
 - [ ] Jobs
 - [ ] BCNM
 - [ ] Mobs
+- [ ]Named Mobs
 - [ ] Zone
 - [ ] Moghouse
 - [ ] NPC
@@ -27,6 +29,9 @@ assignees: ''
 - [ ] Transportation (Airship, Ship or Chocobo)
 - [ ] Exploit/Glitch
 - [ ] Other
+
+**Zone Effected**
+
 
 **Describe The Bug/Issue**
 Please give a clear description of the bug or issue you are experiencing in as much detail as possible.  
