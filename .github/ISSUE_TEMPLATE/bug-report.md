@@ -21,7 +21,7 @@ assignees: ''
 - [ ] Jobs
 - [ ] BCNM
 - [ ] Mobs
-- [ ]Named Mobs
+- [ ] Named Mobs
 - [ ] Zone
 - [ ] Moghouse
 - [ ] NPC
