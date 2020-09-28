@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve the server. Note: please use X to mark the boxes pretaning to your issue: i.e - [x]
+about: Create a report to help us improve the server, please use X to mark the boxes pretaning to your issue. (i.e) - [x]
 title: ''
 labels: ''
 assignees: ''
