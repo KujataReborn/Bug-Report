@@ -18,6 +18,7 @@ assignees: ''
 - [ ] Missions
 - [ ] Quest
 - [ ] Conquest
+- [ ] Experience Points
 - [ ] Jobs
 - [ ] BCNM
 - [ ] Dynamis
