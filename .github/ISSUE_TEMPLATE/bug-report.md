@@ -12,6 +12,9 @@ assignees: ''
 - [ ] Client Side
 - [ ] Server Side
 - [ ] Client Installer
+- [ ] Windower
+- [ ] Ashita
+- [ ] XIloader
 - [ ] Other
 ------------------------------------------------------------------------------------------------------------------
 **Bug Effects**
@@ -52,11 +55,9 @@ assignees: ''
 
 
 ------------------------------------------------------------------------------------------------------------------
-
-**Can you reproduce the bug? **
+**Can you reproduce the bug?**
 - [ ] Yes
 - [ ] No
-
 ------------------------------------------------------------------------------------------------------------------
 **Expected behavior**
 Please give a clear description of what you expected to happen with as much detail as possible.
