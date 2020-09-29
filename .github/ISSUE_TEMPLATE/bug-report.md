@@ -38,6 +38,8 @@ assignees: ''
 - [ ] Transportation
 - [ ] Menus
 - [ ] Abilities
+- [ ] Items
+- [ ] Armor
 - [ ] Delivery Box
 - [ ] Auction House
 - [ ] Maps
