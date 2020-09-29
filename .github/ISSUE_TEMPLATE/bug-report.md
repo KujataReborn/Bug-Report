@@ -15,19 +15,32 @@ assignees: ''
 - [ ] Other
 ------------------------------------------------------------------------------------------------------------------
 **Bug Effects**
-- [ ] Dynamis                - [ ] Missions
-- [ ] Mobs                     - [ ] Quest
-- [ ] Named Mobs        - [ ] Experience Points
-- [ ] Jobs                       - [ ] Conquest
-- [ ] BCNM                    - [ ] Zone
-- [ ] Moghouse             - [ ] NPC
-- [ ] Skillups                  - [ ] Battle
-- [ ] Cutscene                - [ ] Inventory                                        
-- [ ] Crafting/Guilds      - [ ] Transportation
-- [ ] Menus                    - [ ] Abilities
-- [ ] Delivery Box           - [ ] Auction House
-- [ ] Maps                      - [ ] Bazaar 
-- [ ] Exploit/Glitch         - [ ] Other
+- [ ] Dynamis | - [ ]
+- [ ] Missions
+- [ ] Mobs
+- [ ] Quest
+- [ ] Named Mobs
+- [ ] Experience Points
+- [ ] Jobs
+- [ ] Conquest
+- [ ] BCNM
+- [ ] Zone
+- [ ] Moghouse
+- [ ] NPC
+- [ ] Skillups
+- [ ] Battle
+- [ ] Cutscene
+- [ ] Inventory                                        
+- [ ] Crafting/Guilds
+- [ ] Transportation
+- [ ] Menus
+- [ ] Abilities
+- [ ] Delivery Box
+- [ ] Auction House
+- [ ] Maps
+- [ ] Bazaar 
+- [ ] Exploit/Glitch
+- [ ] Other
 ------------------------------------------------------------------------------------------------------------------
 **Zone Effected**
 
