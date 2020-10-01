@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a report to help us improve the server, please use X to mark the boxes
   pretaning to your issue. (i.e) - [x]
-title: ''
+title: Bug Report
 labels: bug
 assignees: ''
 
@@ -12,71 +12,40 @@ assignees: ''
 - [ ] Client Side
 - [ ] Server Side
 - [ ] Client Installer
-- [ ] Windower
-- [ ] Ashita
 - [ ] XIloader
 - [ ] Other
 ------------------------------------------------------------------------------------------------------------------
-**Bug Effects**
-- [ ] Dynamis
-- [ ] Missions
-- [ ] Mobs
-- [ ] Quest
-- [ ] Named Mobs
-- [ ] Experience Points
-- [ ] Jobs
-- [ ] Conquest
-- [ ] BCNM
-- [ ] Zone
-- [ ] Moghouse
-- [ ] NPC
-- [ ] Skillups
-- [ ] Battle
-- [ ] Cutscene
-- [ ] Inventory                                        
-- [ ] Crafting/Guilds
-- [ ] Transportation
-- [ ] Menus
-- [ ] Abilities
-- [ ] Items
-- [ ] Armor
-- [ ] Delivery Box
-- [ ] Auction House
-- [ ] Maps
-- [ ] Bazaar 
-- [ ] Exploit/Glitch
-- [ ] Other
-------------------------------------------------------------------------------------------------------------------
-**Zone Effected**
-
-
+**Please describe the Bug/Issue in as much detail as possible**
 
 ------------------------------------------------------------------------------------------------------------------
-**Describe The Bug/Issue**
-(Please give a clear description of the bug or issue you are experiencing in as much detail as possible)  
-
+**Launcher**
+- [ ] Windower
+- [ ] Ashita
+------------------------------------------------------------------------------------------------------------------
+**OS**
+- [ ] Windows 10
+- [ ] Windows 7
+- [ ] Other (         )
+------------------------------------------------------------------------------------------------------------------
+**Client Version:**
+Your FFXI Client Version #
 
 ------------------------------------------------------------------------------------------------------------------
 **Can you reproduce the bug?**
 - [ ] Yes
 - [ ] No
 ------------------------------------------------------------------------------------------------------------------
-**Expected behavior**
-Please give a clear description of what you expected to happen with as much detail as possible.
+**Please give a description of the expected behavior of the content that produced said bug**
 
 ------------------------------------------------------------------------------------------------------------------
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-------------------------------------------------------------------------------------------------------------------
-**Client Version:**
- 
+**Screenshots: If applicable, add screenshots to help explain your problem.**
 
 ------------------------------------------------------------------------------------------------------------------
 
 **Your Characters Name:**
  
-
+------------------------------------------------------------------------------------------------------------------
+**Other Player Involved**
 ------------------------------------------------------------------------------------------------------------------
 **Additional context**
 Add any other context about the problem here.
