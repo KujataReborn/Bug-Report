@@ -41,11 +41,11 @@ Your FFXI Client Version #
 **Screenshots: If applicable, add screenshots to help explain your problem.**
 
 ------------------------------------------------------------------------------------------------------------------
-
 **Your Characters Name:**
  
 ------------------------------------------------------------------------------------------------------------------
 **Other Player Involved**
+
 ------------------------------------------------------------------------------------------------------------------
 **Additional context**
 Add any other context about the problem here.
